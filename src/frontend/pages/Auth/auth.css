@@ -1,0 +1,22 @@
+label {
+    display: block;
+    text-align: center;
+}
+
+.auth-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 140px;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+/* .auth-sub-container {
+    display: flex;
+} */
+
+.already-have-account:hover {
+    cursor: pointer;
+}

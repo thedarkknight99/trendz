@@ -1,0 +1,27 @@
+* {
+    margin-right: 12px;
+    margin-left: 12px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: fit-content;
+    border-bottom: 1px solid;
+}
+
+.header-items {
+    /* width: 90%; */
+    list-style: "none";
+    display: flex;
+    /* justify-items: right; */
+}
+
+.list-items {
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.list-items:hover {
+    cursor: pointer;
+}
